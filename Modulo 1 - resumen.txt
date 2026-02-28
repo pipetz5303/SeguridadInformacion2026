@@ -1,0 +1,14 @@
+Modulo 1 - 
+Introducción
+Se explica la importancia de la piratería ética, pruebas de penetracion y saber la importancia de ser hacker ético en vez no ético.
+El hacker ético actúa como atacante y evalúa la seguridad para minimizar riesgos y reducir posible ataques.
+hacker: usuario no autorizado que intenta acceder a un sistema de información
+alcance: lo que se puede probar y hasta donde se realizara
+hacer ético: lo hace de manera responsable, informa sus hallazgos.
+importancia: la forma de darse cuenta que las defensas están funcionando es probándolas.
+actores de amenazas: crimen organizado, hacktivistas, patrocinados por el estado, y amenazas internas
+para pruebas de penetracion debo seguir metodologías, estándares y sobre todo documentar.
+tipos de pruebas:
+pruebas de infraestructura de red (física),  de aplicaciones, en la nube
+tipos de pruebas: entorno desconocido (caja negra), entorno conocido (caja blanca) y entorno parcialmente conocido (caja gris).
+El entorno de sandbox es ideal para evitar llenar datos faltos o maliciosos y tener forma de recuperación si algo falla en las pruebas de penetracion.
